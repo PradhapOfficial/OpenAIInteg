@@ -1,0 +1,32 @@
+Jun 03, 2023 10:30:37 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:30:39 AM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Jun 03, 2023 10:31:46 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:33:59 AM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Jun 03, 2023 10:34:04 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:34:07 AM com.pradhap.openai.util.ApiResponse <init>
+INFO: constructor is called
+Jun 03, 2023 10:34:15 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:34:15 AM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.Exception: message key is required
+Jun 03, 2023 10:53:58 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:53:58 AM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.Exception: message key is required
+Jun 03, 2023 10:54:06 AM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 03, 2023 10:54:16 AM com.pradhap.openai.util.ApiResponse <init>
+INFO: constructor is called
+Jun 03, 2023 10:54:32 AM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 03, 2023 10:54:45 AM com.pradhap.openai.api.OpenAIAPI createChat
+SEVERE: Exception occured in createChat method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.getAsString()" because the return value of "com.google.gson.JsonObject.get(String)" is null
+Jun 03, 2023 10:55:36 AM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 03, 2023 10:56:12 AM com.pradhap.openai.util.ApiResponse <init>
+INFO: constructor is called
