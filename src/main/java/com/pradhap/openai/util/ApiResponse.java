@@ -17,7 +17,6 @@ public class ApiResponse {
 		this.code = code;
 		this.status = status;
 		this.message = msg;
-		OpenAIAPI.LOGGER.log(Level.INFO, "constructor is called");
 	}
 
 	public int getCode() {
