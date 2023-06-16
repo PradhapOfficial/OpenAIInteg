@@ -9,8 +9,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Users/pradhap-14744/Personal/Jars/Personal/httpclient-1.0.jar"/>
-	<classpathentry kind="lib" path="/Users/pradhap-14744/Personal/Jars/Personal/openai-1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/pradhap-14744/Personal/Jars/Third Party/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pradhap-14744/Personal/Jars/Personal/httpclient-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pradhap-14744/Personal/Jars/Personal/openai-2.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

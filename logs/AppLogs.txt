@@ -1,0 +1,186 @@
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:28 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:29 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:32 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:33 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:35 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:36 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:36 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:38 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:40 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:43 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:43 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:44 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:44 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:45 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:45 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:45 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:46 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:46 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:46 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:46 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:46 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:47 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:47 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:47 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:47 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:47 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:48 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:48 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:48 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+SEVERE: Exception occured in createChat method :: java.net.SocketTimeoutException: Read timed out
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+SEVERE: Exception occured in createChat method :: java.net.SocketTimeoutException: Read timed out
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+SEVERE: Exception occured in createChat method :: java.net.SocketTimeoutException: Read timed out
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:49 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:50 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:50 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:51 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:51 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:51 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:51 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:52 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:23:52 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:52 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
+Jun 16, 2023 11:23:52 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:58 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:23:59 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:00 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:02 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:02 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:02 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:03 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:03 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:04 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:04 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:04 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:04 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:05 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:06 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:06 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:07 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:07 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:24:08 PM com.pradhap.openai.api.OpenAIAPI editText
+SEVERE: Exception occured in editText method :: java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonArray.get(int)" because the return value of "com.openai.framework.util.EditTextResponsePOJO.getChoices()" is null
+Jun 16, 2023 11:24:10 PM com.pradhap.openai.api.OpenAIAPI editText
+INFO: editText method is called
+Jun 16, 2023 11:26:59 PM com.pradhap.openai.api.OpenAIAPI createChat
+INFO: createChat method is called
